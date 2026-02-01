@@ -1,3 +1,5 @@
+![Workflow thumbnail](assets/thumbnail.webp)
+
 ![Workflow thumbnail](assets/thumbnail.svg)
 
 ![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
@@ -18,7 +20,6 @@ Automate B2B lead discovery from Reddit with AI intent scoring, LinkedIn matchin
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -44,6 +45,25 @@ Automate B2B lead discovery from Reddit with AI intent scoring, LinkedIn matchin
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/5433-automate-tally-form-submissions-to-airtable-with-gmail-responses.webp)
+![Screenshot](assets/5449-automate-sales-cold-calling-pipeline-with-apify--gpt-4o--and-whatsapp.webp)
+![Screenshot](assets/Automate_Tally_Form_n8n_e8c3f463b4.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_10_c8b930cbde.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_11_571d33475e.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_12_be99c07f52.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_1_9955d7cf67.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_2_6687698611.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_4_70cad20082.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_5_a1e4628953.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_6_d8f6f411fd.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_8_64a6536591.png)
+![Screenshot](assets/Automate_Tally_Form_n8n_etape_9_d49fbe6a18.png)
+![Screenshot](assets/Screenshot_2025_06_29_at_15_43_00_b539ee8b6f.png)
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
