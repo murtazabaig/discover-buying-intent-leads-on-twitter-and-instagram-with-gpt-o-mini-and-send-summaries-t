@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
+![license](https://img.shields.io/badge/license-MIT-green)
+![status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Discover buying-intent leads on Twitter and Instagram with GPT-4o-mini and send summaries to Slack and Notion
 
 Advanced n8n automation for Discover buying-intent leads on Twitter and Instagram with GPT-4o-mini and send summaries to Slack and Notion.
